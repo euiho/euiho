@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+하나씩 정리하는 공간.
+
 <!--
 **euiho/euiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
